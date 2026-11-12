@@ -1,4 +1,4 @@
-# 审美基准库 index —— 469 张真人旅拍婚纱素材（源: D:/AI测试素材，已去重3对同名视频静帧）
+# 审美基准库 index —— 484 张真人旅拍婚纱素材（源: D:/AI测试素材，已去重3对同名视频静帧）
 # featured: true = 用户 -ok 精选；引用优先级 featured > 普通
 
 - id: f1-755441a8481698371353bfd155c50307
@@ -3284,3 +3284,138 @@
   thumb: thumbs/misc-c_(95).jpg
   size: 1365x2048
   featured: false
+
+- id: warm-sun-02
+  src_folder: 草坪婚纱-暖阳逆光与头纱
+  orig: "再晒一晒暖阳_2_白驹的摄影师_来自小红书网页版.jpg"
+  file: galleries/草坪婚纱-暖阳逆光与头纱/02-单人逆光披纱.jpg
+  thumb: thumbs/warm-sun-02.jpg
+  size: 1080x1620
+  featured: false
+  tags: ["逆光", "头纱", "全身"]
+
+- id: warm-sun-03
+  src_folder: 草坪婚纱-暖阳逆光与头纱
+  orig: "再晒一晒暖阳_3_白驹的摄影师_来自小红书网页版.jpg"
+  file: galleries/草坪婚纱-暖阳逆光与头纱/03-侧前近景抬眼对视.jpg
+  thumb: thumbs/warm-sun-03.jpg
+  size: 1080x1620
+  featured: false
+  tags: ["侧前", "近景", "对视"]
+
+- id: warm-sun-04
+  src_folder: 草坪婚纱-暖阳逆光与头纱
+  orig: "再晒一晒暖阳_4_白驹的摄影师_来自小红书网页版.jpg"
+  file: galleries/草坪婚纱-暖阳逆光与头纱/04-背后跟拍并肩走.jpg
+  thumb: thumbs/warm-sun-04.jpg
+  size: 1080x1620
+  featured: false
+  tags: ["背后跟拍", "行走", "拖尾"]
+
+- id: warm-sun-05
+  src_folder: 草坪婚纱-暖阳逆光与头纱
+  orig: "再晒一晒暖阳_5_白驹的摄影师_来自小红书网页版.jpg"
+  file: galleries/草坪婚纱-暖阳逆光与头纱/05-迎光双人头纱前景.jpg
+  thumb: thumbs/warm-sun-05.jpg
+  size: 1080x1620
+  featured: false
+  tags: ["逆光", "头纱前景"]
+
+- id: warm-sun-06
+  src_folder: 草坪婚纱-暖阳逆光与头纱
+  orig: "再晒一晒暖阳_6_白驹的摄影师_来自小红书网页版.jpg"
+  file: galleries/草坪婚纱-暖阳逆光与头纱/06-草坪远景长影.jpg
+  thumb: thumbs/warm-sun-06.jpg
+  size: 1080x1620
+  featured: false
+  tags: ["环境远景", "留白", "长阴影"]
+
+- id: warm-sun-07
+  src_folder: 草坪婚纱-暖阳逆光与头纱
+  orig: "再晒一晒暖阳_7_白驹的摄影师_来自小红书网页版.jpg"
+  file: galleries/草坪婚纱-暖阳逆光与头纱/07-纱下逆光对视.jpg
+  thumb: thumbs/warm-sun-07.jpg
+  size: 1080x1620
+  featured: false
+  tags: ["贴近拍摄", "透纱逆光"]
+
+- id: warm-sun-08
+  src_folder: 草坪婚纱-暖阳逆光与头纱
+  orig: "再晒一晒暖阳_8_白驹的摄影师_来自小红书网页版.jpg"
+  file: galleries/草坪婚纱-暖阳逆光与头纱/08-双人抬手撑纱.jpg
+  thumb: thumbs/warm-sun-08.jpg
+  size: 1080x1620
+  featured: false
+  tags: ["撑纱", "双人互动"]
+
+- id: warm-sun-09
+  src_folder: 草坪婚纱-暖阳逆光与头纱
+  orig: "再晒一晒暖阳_9_白驹的摄影师_来自小红书网页版.jpg"
+  file: galleries/草坪婚纱-暖阳逆光与头纱/09-草坪拥抱与飞花.jpg
+  thumb: thumbs/warm-sun-09.jpg
+  size: 1080x1620
+  featured: false
+  tags: ["拥抱", "飞花", "竖幅留白"]
+
+- id: warm-sun-10
+  src_folder: 草坪婚纱-暖阳逆光与头纱
+  orig: "再晒一晒暖阳_10_白驹的摄影师_来自小红书网页版.jpg"
+  file: galleries/草坪婚纱-暖阳逆光与头纱/10-贴肩回望.jpg
+  thumb: thumbs/warm-sun-10.jpg
+  size: 1080x1620
+  featured: false
+  tags: ["贴肩", "回望", "近景"]
+
+- id: warm-sun-11
+  src_folder: 草坪婚纱-暖阳逆光与头纱
+  orig: "再晒一晒暖阳_11_白驹的摄影师_来自小红书网页版.jpg"
+  file: galleries/草坪婚纱-暖阳逆光与头纱/11-侧拍托抱与飞花.jpg
+  thumb: thumbs/warm-sun-11.jpg
+  size: 1080x1620
+  featured: false
+  tags: ["托抱", "裙摆", "飞花"]
+
+- id: warm-sun-12
+  src_folder: 草坪婚纱-暖阳逆光与头纱
+  orig: "再晒一晒暖阳_12_白驹的摄影师_来自小红书网页版.jpg"
+  file: galleries/草坪婚纱-暖阳逆光与头纱/12-侧前近景回眸.jpg
+  thumb: thumbs/warm-sun-12.jpg
+  size: 1080x1620
+  featured: false
+  tags: ["侧前", "贴近拍摄"]
+
+- id: warm-sun-13
+  src_folder: 草坪婚纱-暖阳逆光与头纱
+  orig: "再晒一晒暖阳_13_白驹的摄影师_来自小红书网页版.jpg"
+  file: galleries/草坪婚纱-暖阳逆光与头纱/13-草坪单人长拖尾.jpg
+  thumb: thumbs/warm-sun-13.jpg
+  size: 1080x1620
+  featured: false
+  tags: ["全身", "拖尾引导线"]
+
+- id: warm-sun-14
+  src_folder: 草坪婚纱-暖阳逆光与头纱
+  orig: "再晒一晒暖阳_14_白驹的摄影师_来自小红书网页版.jpg"
+  file: galleries/草坪婚纱-暖阳逆光与头纱/14-太阳入镜星芒.jpg
+  thumb: thumbs/warm-sun-14.jpg
+  size: 1080x1620
+  featured: false
+  tags: ["耀斑", "太阳星芒"]
+
+- id: warm-sun-15
+  src_folder: 草坪婚纱-暖阳逆光与头纱
+  orig: "再晒一晒暖阳_15_白驹的摄影师_来自小红书网页版.jpg"
+  file: galleries/草坪婚纱-暖阳逆光与头纱/15-树列逆光双人飞纱.jpg
+  thumb: thumbs/warm-sun-15.jpg
+  size: 1080x1620
+  featured: false
+  tags: ["逆光轮廓", "竖直树列", "飞纱"]
+
+- id: warm-sun-16
+  src_folder: 草坪婚纱-暖阳逆光与头纱
+  orig: "再晒一晒暖阳_16_白驹的摄影师_来自小红书网页版.jpg"
+  file: galleries/草坪婚纱-暖阳逆光与头纱/16-单人扬纱与花束.jpg
+  thumb: thumbs/warm-sun-16.jpg
+  size: 1080x1620
+  featured: false
+  tags: ["扬纱", "花束", "全身"]
